@@ -75,17 +75,29 @@ Two regression models were implemented and compared:
 This project includes multiple plots:
 
 - Seasonal temperature cycles (min & max)
+  
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/e603b315-2191-4af2-8c3d-0d8053751455" />
+
 - Precipitation over time
+  
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/33d8f385-bee2-44f0-bfc6-bef3fa82fa8e" />
+
 - Snowfall distribution
+
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/0d15a8bd-dd60-47e0-8e3a-9c48278e3cc3" />
+
 - Annual precipitation spikes (notably 2022)
+  
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/4ca497d0-08fc-43b9-aaf9-d8c449516b96" />
+
 - Predicted vs. actual temperature comparison
+  
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/235b7be0-d1ab-41ae-a58c-9753fc9a61de" />
+
 - Error distribution plots
+  
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/43f3ab7e-d04c-44e6-ab00-b285abbd30ee" />
+
 - Correlation heatmap  
 - Preview of the cleaned dataset  
 
