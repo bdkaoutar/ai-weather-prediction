@@ -109,3 +109,52 @@ Run the main script:
 
 ```bash
 python main.py
+```
+
+This script:
+
+- Loads and merges all CSV files
+- Cleans and preprocesses weather data
+- Performs feature engineering
+- Trains ML models and evaluates them
+- Generates all visualizations
+- Saves cleaned dataset
+
+## Project Structure
+
+```bash
+ai-weather-prediction/
+│
+├── main.py
+├── weather.csv
+├── *.csv                        # Raw weather files (2012–2024)
+├── error_distr.png
+├── temp_predic_real.png
+├── temp_min_max.png
+├── snow.png
+├── precip.png
+├── tot_precip.png
+├── AI Project Weather.pdf       # Full project report
+└── weather AI project.pptx
+```
+
+## Key Results
+
+* Linear Regression produced highly accurate predictions
+* Clear seasonal temperature patterns observed
+* Strong correlation among temperature variables
+* Significant precipitation anomalies detected (2022 event)
+* Feature engineering improved model performance
+
+## Future Improvements
+
+- Add advanced models (XGBoost, Gradient Boosting, LSTMs)
+- Integrate more meteorological features
+- Deploy as a web-based dashboard
+- Add API for real-time predictions
+
+## Authors
+
+- Samya Habib
+- Hala Rami
+- Kaoutar Boudribila
